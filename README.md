@@ -1,4 +1,4 @@
-### Learning never end.. all I do is reading Docs. :sweat_smile:
+### Learning never ends.
 
 <!--
 **ozgurSULUM/ozgurSULUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
